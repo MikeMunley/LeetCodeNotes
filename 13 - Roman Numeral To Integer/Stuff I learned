@@ -1,0 +1,11 @@
+Stuff I learned
+
+1. the .charAt() method used to pinpoint a character in a string while using a for loop.
+
+2. Designating a variable for a specifically placed character within a string (i + 1)
+
+3. Don't be afraid to nest the hell out of if/else statements if you need to.
+
+4. Using an object to declare the numerals as integers instead of trying to declare each one its own variable.
+
+5. incrementing within an if statement to skip over an iteration in the for loop.

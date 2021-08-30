@@ -1,0 +1,5 @@
+So in this one I watched the Terrible Whitebard tutorial and he 
+created an entire JS Class that would allow him to stack valid characters and wrote methods for each of them in order to 
+allow him to push, pop, peek and check if the stack was empty.
+Need to dig deeper into javascript classes.
+He also used a for loop that only had one condition and broke the loop within the code of the loop when complete.
